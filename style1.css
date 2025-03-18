@@ -1,0 +1,19 @@
+.heading{
+    color:blue ;
+    text-decoration:underline;
+    text-decoration-color:brown;
+    text-decoration-style:wavy;
+   font-size: 80px;
+  font-style:  italic;
+  text-align: center;
+  font-family: vardana ;
+ 
+}
+
+p{
+  word-spacing: 50px;
+  letter-spacing: 10px;
+  line-height: 40px;
+  font-weight: bold;
+
+}

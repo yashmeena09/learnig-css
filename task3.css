@@ -1,0 +1,20 @@
+.super{
+    background-color: antiquewhite;
+    height: 300px;
+     padding: 30px;
+    
+}
+.img{
+    height: 3px;
+    width:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    border: 30px solid black;
+    border-radius: 10px;
+
+}
+.para{
+    align-content: space-between;
+}

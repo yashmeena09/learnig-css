@@ -1,0 +1,19 @@
+.main{
+border: solid;
+padding: 30px;
+}
+.thai button
+{
+    background-color: skyblue;
+    color: aliceblue;
+    border-radius: 10px;
+    width: 200px;
+
+}
+.btn{
+    display: flex;
+    justify-content: space-between;
+}
+.thai{
+    text-align: center;
+}
