@@ -1,0 +1,19 @@
+.parent{
+    background-color: blanchedalmond;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 100px 200px 150px 300px 400px;
+    grid-template-rows: 200px 200px;
+    border: 2px solid black;
+}
+.a,.b,.c,.d,.e,.f,.g{
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+.a{
+    grid-column-start: 1;
+ grid-column-end: 5;
+ grid-row-start: 1;
+ grid-row-end: 3;
+
+}
