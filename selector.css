@@ -1,0 +1,24 @@
+button:hover{
+    background-color: skyblue;
+    border: none;
+    cursor: pointer;
+    border-radius: 1%;
+
+}
+h1:hover{
+    color: red;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2px;
+}
+.sec1 h3:first-child{
+    background-color: antiquewhite;
+
+}
+.sec2 p:nth-child(even){
+    background-color: chocolate;
+}
+.sec3 :last-child{
+    background-color: skyblue;
+
+}

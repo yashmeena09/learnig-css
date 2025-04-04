@@ -1,0 +1,7 @@
+table th{
+    background-color: gray;
+}
+table tr:nth-child(odd)
+{
+    background-color: yellow;
+}
