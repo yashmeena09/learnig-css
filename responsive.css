@@ -1,0 +1,21 @@
+.grid{
+    display: grid;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    height: 200px;
+}
+@media screen and (min-width:400px) and (max-width:750px)
+{
+    .grid{
+        display: grid;
+        grid-template-columns: repeat(2,auto);
+    }
+}
+@media screen and  (max-width:399px)
+{
+    .grid{
+        display: grid;
+        grid-template-columns: repeat(1,auto);
+    }
+}
+    
